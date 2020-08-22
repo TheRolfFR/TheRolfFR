@@ -52,7 +52,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How I reverse engineered my bus stop service to make my own app: Part 3: Make the app](http://therolf.fr/anchor/index.php/posts/optymo-reverse-engineering-part-3)
 - [How I reverse engineered my bus stop service to make my own app: Part 2: Structure the data](http://therolf.fr/anchor/index.php/posts/optymo-reverse-engineering-part-2)
-- [How I reverse engineered my bus stop service to make my own app : Part 1 : Get the data.](http://therolf.fr/anchor/index.php/posts/optymo-reverse-engineering-part-1)
+- [How I reverse engineered my bus stop service to make my own app: Part 1: Get the data](http://therolf.fr/anchor/index.php/posts/optymo-reverse-engineering-part-1)
 - [Add your search engine to Firefox with OpenSearch](http://therolf.fr/anchor/index.php/posts/add-your-search-engine-to-firefox-with-opensearch)
 <!-- BLOG-POST-LIST:END -->
 
