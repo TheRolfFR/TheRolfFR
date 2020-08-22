@@ -40,14 +40,14 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-
-
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br>
----
 <br>
+
+---
+
 
 ### 📕 Latest Articles
 
@@ -58,7 +58,11 @@
 - [Add your search engine to Firefox with OpenSearch](http://therolf.fr/anchor/index.php/posts/add-your-search-engine-to-firefox-with-opensearch)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+
 ---
+
+<br>
 
  <img align="left" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&show_icons=true&hide_border=true" />
 
