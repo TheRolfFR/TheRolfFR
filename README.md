@@ -58,11 +58,9 @@
 - [Add your search engine to Firefox with OpenSearch](http://therolf.fr/anchor/index.php/posts/add-your-search-engine-to-firefox-with-opensearch)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
 
 ---
 
-<br>
 
  <img align="left" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&show_icons=true&hide_border=true" />
 
