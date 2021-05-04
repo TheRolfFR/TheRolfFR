@@ -4,7 +4,6 @@ I'm a student and developer at [University of Technology of Belfort-Montbéliard
 <p>
 	<b>If you want to chat with me,</b> don't hesitate to connect with me!
 </p>
-<hr>
 
 <p align="center">
 <a href="https://bit.ly/therolf-website"><img alt="Website" src="https://img.shields.io/badge/Website-31a589?style=for-the-badge&logoColor=white"></a>&nbsp;
@@ -16,7 +15,9 @@ I'm a student and developer at [University of Technology of Belfort-Montbéliard
  <a href="https://bit.ly/therolf-codepen"><img alt="Codepen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;
 </p>
 
-### Languages and Tools:
+<hr>
+
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -32,8 +33,8 @@ I'm a student and developer at [University of Technology of Belfort-Montbéliard
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 
 <br>
-<br>
 
+<div>
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="SDL" width="26px" src="https://tr0ll.net/libsdl/contest/pictures/ArneClaus.gif" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -45,6 +46,7 @@ I'm a student and developer at [University of Technology of Belfort-Montbéliard
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</div>
 
 <br>
 <br>
@@ -65,6 +67,8 @@ I'm a student and developer at [University of Technology of Belfort-Montbéliard
 <!-- BLOG-POST-LIST:END -->
 </details>
 <h3>📈 Statistics:</h3>
-<img align="left" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&show_icons=true&hide_border=true" />
-<img height="120" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRolfFR&layout=compact&theme=dracula&hide_title=true">
-<img height="120" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&theme=dracula&hide=prs&show_icons=true&hide_title=true">
+
+<p align="center">
+	<img height="120" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRolfFR&layout=compact&theme=vue-dark&hide_title=true&hide_border=true">
+	<img height="120" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&theme=vue-dark&hide=prs&show_icons=true&hide_title=true&hide_border=true">
+</p>
