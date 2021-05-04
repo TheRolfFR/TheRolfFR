@@ -1,8 +1,9 @@
 # Hello there, i'm Yann - aka TheRolfFR
 
 I'm a student and developer at [University of Technology of Belfort-Montbéliard](https://www.utbm.fr/)
-
+<p>
 	<b>If you want to chat with me,</b> don't hesitate to connect with me!
+</p>
 <hr>
 
 <p align="center">
