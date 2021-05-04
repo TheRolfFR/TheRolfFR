@@ -2,16 +2,8 @@
 
 I'm a student and developer at [University of Technology of Belfort-Montbéliard](https://www.utbm.fr/)
 
-<br>
 	<b>If you want to chat with me,</b> don't hesitate to connect with me!
 <hr>
-
-[<img align="left" alt="therolf.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="My LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="My CodePens" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="My YouTube channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="My Twitch channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <p align="center">
 <a href="https://bit.ly/therolf-website"><img alt="Website" src="https://img.shields.io/badge/Website-31a589?style=for-the-badge&logoColor=white"></a>&nbsp;
