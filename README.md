@@ -52,23 +52,19 @@ I'm a student and developer at [University of Technology of Belfort-Montbéliard
 ---
 
 
-### 📕 Latest Articles
 
+<h3>📕 Latest Articles</h3>
+<details>
+	<summary>Expand to see more</summary>
+	
 <!-- BLOG-POST-LIST:START -->
 - [How I reverse engineered my bus stop service to make my own app: Part 3: Make the app](http://therolf.fr/anchor/index.php/posts/optymo-reverse-engineering-part-3)
 - [How I reverse engineered my bus stop service to make my own app: Part 2: Structure the data](http://therolf.fr/anchor/index.php/posts/optymo-reverse-engineering-part-2)
 - [How I reverse engineered my bus stop service to make my own app: Part 1: Get the data](http://therolf.fr/anchor/index.php/posts/optymo-reverse-engineering-part-1)
 - [Add your search engine to Firefox with OpenSearch](http://therolf.fr/anchor/index.php/posts/add-your-search-engine-to-firefox-with-opensearch)
 <!-- BLOG-POST-LIST:END -->
-
-
----
-
-
- <img align="left" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&show_icons=true&hide_border=true" />
-
-[website]: https://therolf.fr
-[youtube]: https://bit.ly/therolf-youtube
-[codepen]: https://bit.ly/therolf-codepen
-[linkedin]: 
-[twitch]: https://bit.ly/therolf-twitch
+</details>
+<h3>📈 Statistics:</h3>
+<img align="left" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&show_icons=true&hide_border=true" />
+<img height="120" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRolfFR&layout=compact&theme=dracula&hide_title=true">
+<img height="120" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&theme=dracula&hide=prs&show_icons=true&hide_title=true">
