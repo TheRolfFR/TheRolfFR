@@ -15,8 +15,6 @@ I'm a student and developer at [University of Technology of Belfort-Montbéliard
 <a href="https://bit.ly/therolf-youtube"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
  <a href="https://bit.ly/therolf-codepen"><img alt="Codepen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;
 </p>
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
