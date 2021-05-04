@@ -37,6 +37,6 @@ I'm a student and developer at [University of Technology of Belfort-Montbéliard
 <h3>📈 Statistics:</h3>
 
 <p align="center">
-	<img height="120" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRolfFR&layout=compact&theme=vue-dark&hide_title=true&hide_border=true">
-	<img height="120" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&theme=vue-dark&hide=prs&show_icons=true&hide_title=true&hide_border=true">
+	<img height="120" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRolfFR&layout=compact&theme=vue-dark&hide_title=true&hide_border=true&hide=assembly,makefile&langs_count=5">
+	<img height="120" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&theme=vue-dark&show_icons=true&hide_title=true&hide_border=true">
 </p>
