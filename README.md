@@ -1,8 +1,10 @@
-### Hi there, my name is Yann - aka [TheRolfFR][website]
+# Hello there, i'm Yann - aka TheRolfFR
 
-## I'm a student and developer at [University of Technology of Belfort-Montbéliard](https://www.utbm.fr/)
+I'm a student and developer at [University of Technology of Belfort-Montbéliard](https://www.utbm.fr/)
 
-### Connect with me:
+<br>
+	<b>If you want to chat with me,</b> don't hesitate to connect with me!
+<hr>
 
 [<img align="left" alt="therolf.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="My LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -11,6 +13,15 @@
 [<img align="left" alt="My YouTube channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="My Twitch channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
+<p align="center">
+<a href="https://bit.ly/therolf-website"><img alt="Website" src="https://img.shields.io/badge/Website-31a589?style=for-the-badge&logoColor=white"></a>&nbsp;
+<a href="https://bit.ly/therolf-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="https://bit.ly/therolf-twitter"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
+<a href="https://discordapp.com/users/173336582265241601"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
+<a href="https://bit.ly/therolf-twitch"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-6034b2?style=for-the-badge&logo=twitch&logoColor=white"></a>&nbsp;
+<a href="https://bit.ly/therolf-youtube"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
+ <a href="https://bit.ly/therolf-codepen"><img alt="Codepen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;
+</p>
 <br />
 
 ### Languages and Tools:
@@ -65,8 +76,7 @@
  <img align="left" alt="TheRolfFR's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheRolfFR&show_icons=true&hide_border=true" />
 
 [website]: https://therolf.fr
-[twitter]: https://bit.ly/therolf-twitter
 [youtube]: https://bit.ly/therolf-youtube
 [codepen]: https://bit.ly/therolf-codepen
-[linkedin]: https://bit.ly/therolf-linkedin
+[linkedin]: 
 [twitch]: https://bit.ly/therolf-twitch
