@@ -1,6 +1,6 @@
 # Hello there, i'm Yann - aka TheRolfFR
 
-I'm a student and developer at [University of Technology of Belfort-Montbéliard](https://www.utbm.fr/)
+I'm a Junior Software Engineer with a Master's Degree in Computer Science from [University of Technology of Belfort-Montbéliard](https://www.utbm.fr/)
 <p>
 	<b>If you want to chat with me,</b> don't hesitate to connect with me!
 </p>
