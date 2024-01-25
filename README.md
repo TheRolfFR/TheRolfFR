@@ -12,7 +12,8 @@ I'm a Junior Software Engineer with a Master's Degree in Computer Science from [
 <a href="https://discordapp.com/users/173336582265241601"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
 <a href="https://bit.ly/therolf-twitch"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-6034b2?style=for-the-badge&logo=twitch&logoColor=white"></a>&nbsp;
 <a href="https://bit.ly/therolf-youtube"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
- <a href="https://bit.ly/therolf-codepen"><img alt="Codepen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;
+<a href="https://bit.ly/therolf-codepen"><img alt="Codepen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;
+<a href="https://wakatime.com/@TheRolf"><img src="https://wakatime.com/badge/user/93b81acf-0e71-48e0-a963-75c7a7dc0348.svg?style=for-the-badge" alt="Total time coded since Apr 20 2020" /></a>&nbsp;
 </p>
 
 <hr>
